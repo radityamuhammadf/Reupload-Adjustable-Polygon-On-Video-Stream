@@ -1,0 +1,8 @@
+# Ignore virtual environment folders
+venv/
+
+# Ignore Python cache folders
+__pycache__/
+
+# Ignore Learning folder
+Learning/
